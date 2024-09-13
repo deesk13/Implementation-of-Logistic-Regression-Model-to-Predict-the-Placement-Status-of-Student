@@ -22,6 +22,7 @@ Developed by: DEVA DHARSHINI.I
 RegisterNumber: 21222324P026
 */
 ```
+```
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
 data.head()
